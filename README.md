@@ -1,18 +1,8 @@
-# Titre du chatbot
+# Création d'un chatbot avec ChatMD : https://chatmd.forge.apps.education.fr/
 
-Message initial
+Ce chatbot sert à la réponse aux questions provenant de la FAQ du CTCG pour la soumission de protocole au CTIS. 
 
-1. [Premier choix](choix 1)
-2. [Deuxième choix](choix 2)
+Sources : 
+FAQ du CTCG : https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
 
-## choix 1
-Message pour le choix 1
 
-## choix 2
-- déclencheur 1
-- déclencheur 2
-
-Message pour le choix 2
-
-1. [Bouton cliquable 1](cible bouton 1)
-2. [Bouton cliquable 2](cible bouton 2)
