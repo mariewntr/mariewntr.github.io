@@ -9,16 +9,16 @@ submissions for marketing authorisation. It complements and should be used toget
 relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A and E20 (when
 available).
 
-1. [Question 1: Important consideration for the planning and conduct of complex clinical trials](Question 1)
-2. [Question 2: Which additional considerations are needed for the design and conduct of master protocol studies?](Question 2)
-3. [Question 3: How to describe and explain Bayesian approaches in complex clinical trials?](Question 3)
-4. [Question 4: What are the considerations for planning, collection and use of control data from within a complex clinical trial for regulatory purposes?](Question 4)
-5. [Question 5: Which principles apply, and which regulatory pathways should be considered when using biomarkers and biomarker assays in complex clinical trials and consequently applying for marketing authorisations?](Question 5)
-6. [Question 6: Safety, rights and well-being of participants](Question 6)
-7. [Question 7: Transparency (balance with integrity) and communication between regulators, sponsors and investigators](Question 7)
+1. [Important considerations for the planning and conduct of complex clinical trials](Question1)
+2. [Which additional considerations are needed for the design and conduct of master protocol studies?](Question2)
+3. [Question 3: How to describe and explain Bayesian approaches in complex clinical trials?](Question3)
+4. [Question 4: What are the considerations for planning, collection and use of control data from within a complex clinical trial for regulatory purposes?](Question4)
+5. [Question 5: Which principles apply, and which regulatory pathways should be considered when using biomarkers and biomarker assays in complex clinical trials and consequently applying for marketing authorisations?](Question5)
+6. [Question 6: Safety, rights and well-being of participants](Question6)
+7. [Question 7: Transparency (balance with integrity) and communication between regulators, sponsors and investigators](Question7)
 8. [References](References)
 
-## Question 1
+## Question1
 1. [How to define in the protocol research questions, objectives, endpoints,assumptions and hypotheses when they are common and/or specific for sub-protocols?](Q1.1)
 2. [](Q1.2)
 3. [](Q1.3)
