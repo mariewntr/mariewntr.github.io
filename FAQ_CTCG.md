@@ -24,7 +24,8 @@ relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A an
 
 
 ## Q1.1: How to define in the protocol research questions, objectives, endpoints,assumptions and hypotheses when they are common and/or specific for sub-protocols?
-**Shared scientific framework (scientific rationale of the CCT)**
+
+Shared scientific framework (scientific rationale of the CCT)
 In accordance with ICH E8(R1), "the essence of clinical research is to ask important questions and to answer them with appropriate studies". In practice, the research questions will therefore drive the overall purpose of the trial(s) and its objectives, thereby contributing to the rationale of the clinical trial. It should therefore be clear from the planning stage which scientific question the trial is going to address.
 In this context, CTFG Recommendation Paper on the Initiation and Conduct of Complex Clinical Trials (2019) refers to the need for an ‘overarching hypothesis’. It is described in this document as ‘scientific rationale’ which is of particular relevance for complex clinical trials and is different from a statistical hypothesis. 
 The scientific rationale defines the scientifically sound relationship(s) between the research questions of the (sub-)protocols.
