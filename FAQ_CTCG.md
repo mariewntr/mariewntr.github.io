@@ -1,13 +1,8 @@
 # FAQ for planning, design and submit complex clinical trial protocol at CTIS
 
-## The Scope
-This Q&A document provides guidance and seeks to support sponsors, clinical trialists and
-applicants regarding scientific aspects and the planning, set-up, submission for obtaining CT
-authorisation (CTA), conduct, reporting and transparency, analysis and interpretation of complex
-clinical trials (CCTs) under the EU Clinical Trials Regulation (EU CTR) as well as their use in
-submissions for marketing authorisation. It complements and should be used together with
-relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A and E20 (when
-available).
+**The Scope**
+This Q&A document provides guidance and seeks to support sponsors, clinical trialists and applicants regarding scientific aspects and the planning, set-up, submission for obtaining CT authorisation (CTA), conduct, reporting and transparency, analysis and interpretation of complex clinical trials (CCTs) under the EU Clinical Trials Regulation (EU CTR) as well as their use in submissions for marketing authorisation. It complements and should be used together with
+relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A and E20 (when available).
 
 1. [Important considerations for the planning and conduct of complex clinical trials](Question1)
 2. [Which additional considerations are needed for the design and conduct of master protocol studies?](Question2)
@@ -74,19 +69,32 @@ periods separately. Please refer to the EMA Guideline on adjustment for baseline
 
 ### Q1.6
 
+1. [Back to initial questions]()
 
 ## Question 2
 
+
+1. [Back to initial questions]()
 ## Question 3
 
+
+1. [Back to initial questions]()
 ## Question 4
 
+
+1. [Back to initial questions]()
 ## Question 5
 
+
+1. [Back to initial questions]()
 ## Question 6
 
+
+1. [Back to initial questions]()
 ## Question 7
 
+
+1. [Back to initial questions]()
 ## References
 
 
