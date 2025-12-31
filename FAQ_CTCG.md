@@ -1,6 +1,6 @@
 # FAQ for planning, design and submit complex clinical trial protocol at CTIS
 
-**The Scope**
+The Scope
 This Q&A document provides guidance and seeks to support sponsors, clinical trialists and applicants regarding scientific aspects and the planning, set-up, submission for obtaining CT authorisation (CTA), conduct, reporting and transparency, analysis and interpretation of complex clinical trials (CCTs) under the EU Clinical Trials Regulation (EU CTR) as well as their use in submissions for marketing authorisation. It complements and should be used together with
 relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A and E20 (when available).
 
