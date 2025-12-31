@@ -15,12 +15,12 @@ relevant EU and ICH guidelines, in particular E6, E8, E9, E10, E16, E19, E11A an
 
 ## Question1
 
-- [How to define in the protocol research questions, objectives, endpoints,assumptions and hypotheses when they are common and/or specific for sub-protocols?](Q1.1)
-- [How to apply risk-propotionate approaches to CCTs?](Q1.2)
-- [Do I need to submit a CCT and its parts as one single trial or as separate clinical trials under the CT regulation](Q1.3)
-- [What consideration are important when planning a complex clinical trial as a co-sponsorship?](Q1.4)
-- [What additional considerations, including for benefit-risk reassessement, need to be made during the conduct of CCTs?](Q1.5)
-- [Which specific aspects of CCTs would benefit from seeking advice?](Q1.6)
+1. [How to define in the protocol research questions, objectives, endpoints,assumptions and hypotheses when they are common and/or specific for sub-protocols?](Q1.1)
+2. [How to apply risk-propotionate approaches to CCTs?](Q1.2)
+3. [Do I need to submit a CCT and its parts as one single trial or as separate clinical trials under the CT regulation](Q1.3)
+4. [What consideration are important when planning a complex clinical trial as a co-sponsorship?](Q1.4)
+5. [What additional considerations, including for benefit-risk reassessement, need to be made during the conduct of CCTs?](Q1.5)
+6. [Which specific aspects of CCTs would benefit from seeking advice?](Q1.6)
 
 ## Q1.1: How to define in the protocol research questions, objectives, endpoints,assumptions and hypotheses when they are common and/or specific for sub-protocols?
 
