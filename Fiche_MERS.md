@@ -6,6 +6,7 @@ Parmi les symptômes habituels du MERS figurent :
 - la fièvre
 - la toux
 - un essoufflement\
+
 La présence d'une pneumonie est fréquente, mais les patients atteints de MERS ne développent pas toujours cette affection. Des symptômes gastro-intestinaux, comme la diarrhée, ont été également signalés chez les patients immunodéprimés.\
 Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du patient.\
 Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.\
