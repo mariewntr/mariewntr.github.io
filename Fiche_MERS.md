@@ -39,6 +39,7 @@ Depuis l’identification du MERS-CoV en 2012, 27 États Membres ont signalé de
 Pour autant l'OMS ne préconise aucune restriction de voyage dans ces région. 
 
 [Retour aux questions](Questions)
+
 ## Symptômes
 
 Le virus se multiplient préférentiellement dans la partie basse du tractus respiratoire. La période d'incubation est de 5 à 15 jours. Dans les pays du Moyen-Orient où les populations sont plus fréquemment en contact avec les dormadaires, certaines personnes porteuses du virus ne présentent pas de symptômes. Les signes cliniques habituels de la maladie à MERS-CoV sont :
@@ -59,6 +60,7 @@ Ce virus peut-être mortel quand il frappe les personnes agées et/ou déjà aff
 Entre 30 à 35 % des patients infectés qui ont été signalés à l’OMS sont décédés, mais cela peut être une surestimation du taux de mortalité réel, car les cas bénins de MERS-CoV peuvent avoir échappé aux systèmes de surveillance existants.
 
 [Retour aux questions](Questions)
+
 ## Epidémiologie
 
 En Avril 2012 le MERS-CoV est identifié pour la première fois en Arabie Saoudite. Des cas ou des foyers épidémiques sont ensuite détectés dans plusieurs pays du Moyen-Orient. Depuis, 1219 cas ont été détectés, provoquant 449 morts. Quelques cas, ont été recensées en Europe, dont 2 cas en France en 2013. Les 2 cas avaient pu être isolés de façon appropriée au CHRU de Lille (en 2013), empêchant ainsi la diffusion du virus. 
@@ -70,6 +72,7 @@ Ici le lien vers le page de [l'ECDC](https://www.ecdc.europa.eu/en/middle-east-r
 Sur l'année 2025, 14 cas de MERS-CoV ont été rapporté. 12 ont été rapporté en Arabie Saoudites et 2 cas ont été identifié en France. Les cas français font suite à un voyage au Moyen-Orient. Ils ont été pris en charge par les hopitaux de Lyon et Bordeaux. Parmi les cas rapportés par l'Arabie Saoudites, 3 ont été mortels. 
 
 [Retour aux questions](Questions)
+
 ## Traitements
 
 Aujourd’hui il n’existe aucun traitement spécifique pour lutter contre le MERS-CoV. Les soins apportés visent à atténuer les symptômes uniquement. Néanmoins, les patients pris en charge peuvent être traités par traitement antibiotique et le traitement Oseltamivir déjà mis en place pour le traitement de la grippe. 
@@ -80,6 +83,7 @@ Des études sur la mise en place d'un vaccin sont actuellement en courq à l'Uni
 
 
 [Retour aux questions](Questions)
+
 ## Prévention
 
 Il est recommandé aux personnes qui risquent le plus de développer une forme grave de la maladie d’éviter tout contact avec des dromadaires, de ne pas boire de lait cru ou d’urine de chameau et de ne pas consommer de viande mal cuite.
@@ -113,7 +117,6 @@ Si un patient doit-être transféré vers un établissement de santé régional,
 L'ensemble des cas contact et des co-exposées doivent être déclaré à l'Agence Régionale de Santé. Ont prend aussi en compte les équipes d'hygiène et la santé du travail pour les contacts en milieu de soins. 
 
 [Retour aux questions](Questions)
-
 
 ## Sources 
 
