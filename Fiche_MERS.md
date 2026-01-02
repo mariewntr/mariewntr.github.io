@@ -5,13 +5,13 @@ Les coronavirus constituent une vaste famille de virus pouvant provoquer des mal
 Parmi les symptômes habituels du MERS figurent : 
 - la fièvre
 - la toux
-- un essoufflement
+- un essoufflement\
 La présence d'une pneumonie est fréquente, mais les patients atteints de MERS ne développent pas toujours cette affection. Des symptômes gastro-intestinaux, comme la diarrhée, ont été également signalés chez les patients immunodéprimés.\
 Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du patient.\
 Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.\
 La transmission interhumaine est possible et s'est produite essentiellement parmis des contacts proches ou dans des établissements de soins. En dehors des structures de soins, la transmission interhumaine a été limité. 
 
-Que souhaites-tu savoir d'autre sur le MERS ?\
+Que souhaites-tu savoir d'autre sur le MERS ?
 
 2. [Quelle sont les causes du MERS ?](Causes)
 3. [Quel sont les symptômes du MERS ?](Symptômes)
