@@ -12,7 +12,7 @@ Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du pati
 Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.\
 La transmission interhumaine est possible et s'est produite essentiellement parmis des contacts proches ou dans des établissements de soins. En dehors des structures de soins, la transmission interhumaine a été limité. 
 
-[Souhaites-tu d'autres informations sur le MERS ?](Questions)
+1. [Souhaites-tu d'autres informations sur le MERS ?](Questions)
 
 ## Questions
 2. [Quelle sont les causes du MERS ?](Causes)
@@ -20,8 +20,9 @@ La transmission interhumaine est possible et s'est produite essentiellement parm
 4. [L'épidémiologie du MERS](Epidémiologie)
 5. [Traitement en place pour le MERS](Traitements)
 6. [Prévention contre le MERS](Prévention)
-7. [Les actions en cours](Actions)
-8. [Sources](Sources)
+7. [La prise en charge de patient suspecté d'une infection au MERS](Hospitalisation)
+8. [Les actions en cours](Actions)
+9. [Sources](Sources)
 
 
 ## Causes
@@ -43,6 +44,9 @@ Environ 80 % des cas humains ont été signalés par l’Arabie saoudite, essent
 
 [Retour aux questions](Questions)
 ## Prévention
+
+[Retour aux questions](Questions)
+## Hospitalisation
 
 [Retour aux questions](Questions)
 ## Actions
