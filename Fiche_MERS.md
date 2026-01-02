@@ -13,8 +13,7 @@ Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal
 La transmission interhumaine est possible et s'est produite essentiellement parmis des contacts proches ou dans des établissements de soins. En dehors des structures de soins, la transmission interhumaine a été limité. 
 
 Souhaites-tu d'autres informations sur le MERS ?
-- [Oui](Questions)
-- [Non](Références)
+1. [Oui](Questions)
 
 ## Questions
 1. [Quelle sont les causes du MERS ?](Causes)
