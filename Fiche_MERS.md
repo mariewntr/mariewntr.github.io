@@ -25,6 +25,12 @@ Que souhaites-tu savoir d'autre sur le MERS ?
 
 ## Causes
 
+Le MERS-CoV est un virus identifié pour la première fois en Arabie Saoudite en avril 2012. Le MERS-CoV est un virus zoonotique, c’est-à-dire qu’il se transmet de l’animal à l’homme. Des études ont montré que les humains sont infectés par contact direct ou indirect avec des dromadaires infectés, bien que la voie exacte de transmission demeure incertaine. Il a été identifié et lié à des infections humaines chez des dromadaires dans plusieurs États Membres du Moyen-Orient, d’Afrique et d’Asie du Sud. Malgré un nombre limité d’infections humaines signalées en dehors du Moyen-Orient, selon des études récentes menées dans un certain nombre d’États Membres chez des populations humaines exposées à des dromadaires dans le cadre de leurs activités professionnelles, il existe également une transmission zoonotique dans les États Membres du continent africain.Des virus très proches ont été détectés chez des chauves-souris. Celles-ci pourraient constituer le réservoir naturel mais l’hôte intermédiaire serait le dromadaire qui serait la source de l’introduction chez l’homme. Ainsi, des transmissions occasionnelles à l’homme se sont sans doute produites au contact de dromadaires ou lors de la consommation de lait cru de dromadaire.\
+
+Transmission interhumaine : la transmission interhumaine est possible et s’est produite essentiellement parmi des contacts proches ou dans des établissements de soins. Il s’agit notamment des membres de la famille et du ménage, des agents de santé et d’autres patients. Les plus grandes flambées se sont produites dans des établissements de soins de santé en Arabie saoudite, aux Émirats arabes unis et en République de Corée. En dehors des structures de soins de santé, aucune transmission interhumaine soutenue n’a été observée dans le monde.\
+
+Environ 80 % des cas humains ont été signalés par l’Arabie saoudite, essentiellement à la suite d’un contact direct ou indirect avec des dromadaires infectés ou des personnes infectées dans des établissements de santé. Les cas identifiés en dehors du Moyen-Orient sont généralement des personnes qui semblent avoir été infectées au Moyen-Orient et qui se sont ensuite rendues dans des zones situées en dehors de la région. À ce jour, un nombre limité de flambées se sont produites en dehors du Moyen-Orient.\
+
 1. [Retour aux questions]()
 ## Symptômes
 
@@ -44,8 +50,8 @@ Que souhaites-tu savoir d'autre sur le MERS ?
 
 ## Sources 
 
-[Fiche MERS-CoV OMS](https://www.who.int/fr/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov))\
-[Fiche MERS-CoV Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/mers-cov)\
+[Fiche MERS-CoV OMS](https://www.who.int/fr/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov))
+[Fiche MERS-CoV Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/mers-cov)
 [Fiche MERS-CoV COREB, repérer et prendre en charge un patient suspecté MERS-CoV](https://www.coreb.infectiologie.com/UserFiles/File/procedures/20251209-fiche-coreb-merscov.pdf)
 
 
