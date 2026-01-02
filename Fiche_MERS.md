@@ -42,10 +42,11 @@ Pour autant l'OMS ne préconise aucune restriction de voyage dans ces région.
 
 ## Symptômes
 
-Le virus se multiplient préférentiellement dans la partie basse du tractus respiratoire. La période d'incubation est de 5 à 15 jours. Dans les pays du Moyen-Orient où les populations sont plus fréquemment en contact avec les dormadaires, certaines personnes porteuses du virus ne présentent pas de symptômes. Les signes cliniques habituels de la maladie à MERS-CoV sont :
-- la fièvre
-- la toux
-- un essoufflement.\
+**Le virus se multiplient préférentiellement dans la partie basse du tractus respiratoire. La période d'incubation est de 5 à 15 jours.** Dans les pays du Moyen-Orient où les populations sont plus fréquemment en contact avec les dormadaires, certaines personnes porteuses du virus ne présentent pas de symptômes. **Les signes cliniques habituels de la maladie à MERS-CoV sont** :
+- **la fièvre**
+- **la toux**
+- **un essoufflement.**
+
 La présence d’une pneumonie est fréquente, mais les patients atteints du MERS ne développent pas toujours cette affection. Des symptômes gastro-intestinaux, comme la diarrhée, ont été également signalés. Les formes graves de la maladie peuvent entraîner une insuffisance respiratoire nécessitant une ventilation mécanique et une prise en charge dans des services de soins intensifs.
 
 Ce virus peut-être mortel quand il frappe les personnes agées et/ou déjà affaiblies par d'autres pathologies : 
@@ -86,35 +87,42 @@ Des études sur la mise en place d'un vaccin sont actuellement en courq à l'Uni
 
 ## Prévention
 
-Il est recommandé aux personnes qui risquent le plus de développer une forme grave de la maladie d’éviter tout contact avec des dromadaires, de ne pas boire de lait cru ou d’urine de chameau et de ne pas consommer de viande mal cuite.
+**Il est recommandé aux personnes qui risquent le plus de développer une forme grave de la maladie d’éviter tout contact avec des dromadaires, de ne pas boire de lait cru ou d’urine de chameau et de ne pas consommer de viande mal cuite.**
 
 **Un patient est dit suspect si : il présente des signes cliniques *ET* à une exposition de moins de 14 jours avec une source connue** 
 
-Les signes cliniques a prendre en comptes :
+**Les signes cliniques a prendre en comptes** :
 - syndrôme de détresse respiratoire aigu *OU* pneumopathie fébrile ≥38°C avec oxygénorequérance
 - anomalies sur l'imagerie de thorax (radio et/ou scanner)
-Dans le cas de patient immunodéprimé et/ou présentant une pathologie chronique symptômes du tube digestif (vomissement, nausées, diarrhée) possible. 
+Dans le cas de patient immunodéprimé et/ou présentant une pathologie chronique des symptômes du tube digestif (vomissement, nausées, diarrhée) sont possible. 
 
-Les expositions à risque : 
+**Les expositions à risque** : 
 - Voyage dans un des pays à risque : Arabie Saoudite, Bahreïn, Emirats Arabes Unis, Koweït, Oman, Qatar, Yémen.
 - Hospitalisation ou activité professionnelle dans un établissement de santé de la zone à risque
 - Contact avec un cas possible / confirmé symptomatique
 - contact avec des camélidés / leurs produits (urines, viande crue, laitage non pasteurisés)
 
-**La prise en charge d'un patient par la recherche de signe de gravité**, comme des signes de détresse respiratoire, et **recherche de comorbidités** (grossesse, obésité, diabète, cardiopathies, insufisance rénale, immunodépression). Le patient, même uniquement suspect, doit être mis à l'isolement et porter un masque chirurgical et se laver les mains. L'équipe de soignant prenant en charge le patient doit être formée à ce type de soin et les soins doivent toujours être réalisé en binôme. Il est souhaitable de regrouper les séances de soins afin de limiter le temps d'exposition.\ 
-Pour les soignants prenant en charge le patient, les équipements de protection recommandés sont : 
-- les lunettes
-- les gants
-- le masque FFP2
-- la blouse
-- lavage des mains avant/après la consultation.
+**La prise en charge d'un patient par la recherche de signe de gravité**, comme des signes de détresse respiratoire, et **recherche de comorbidités** (grossesse, obésité, diabète, cardiopathies, insufisance rénale, immunodépression). 
+**Le patient, même uniquement suspect, doit être** :
+- **mis à l'isolement**
+- **porter un masque chirurgical**
+- **lavage des mains.**
 
-Pour confirmé l'infection il est préconnisé de réaliser des prélèvements respiratoires naso-pharyngé *ET* prélèvement profonds (aspiration sus glottique, crachat induit, aspiration trachéale, LBA).\
-**Attention** des prélèvements réalisés avant J4 post-exposition qui s'avèreraient négatifs pour le MERS-CoV doivent être répétés à partir de J4 et/ou au moment d'une évolution clinique.\
-Si le patient peut-être pris en charge par l'établissement de santé d'accueil il doit être placé à l'isolement dans l'établissement de santé. Les prélèvements réalisé dans l'établissement de santé d'accueil doivent être transféré vers les laboratoire de l'établissement de santé de référence.\
+L'équipe de soignant prenant en charge le patient doit être **formée à ce type de soin et les soins doivent toujours être réalisé en binôme**. Il est souhaitable de grouper les séances de soins afin de limiter le temps d'exposition.
+**Pour les soignants prenant en charge le patient, les équipements de protection recommandés sont** : 
+- **les lunettes**
+- **les gants**
+- **le masque FFP2**
+- **la blouse**
+- **lavage des mains avant/après la consultation.**
+
+**Pour confirmé l'infection il est préconnisé de réaliser des prélèvements respiratoires naso-pharyngé *ET* prélèvement profonds*** (aspiration sus glottique, crachat induit, aspiration trachéale, LBA). **Attention** des prélèvements réalisés avant J4 post-exposition qui s'avèreraient négatifs pour le MERS-CoV doivent être répétés à partir de J4 et/ou au moment d'une évolution clinique.
+
+Si le patient peut-être pris en charge par l'établissement de santé d'accueil il doit être placé à l'isolement dans l'établissement de santé. Les prélèvements réalisé dans l'établissement de santé d'accueil doivent être transféré vers les laboratoire de l'établissement de santé de référence.
+
 Si un patient doit-être transféré vers un établissement de santé régional, l'Agence Régionale de Santé doit être contacté et le transport doit se faire par le SAMU - Centre 15.
 
-L'ensemble des cas contact et des co-exposées doivent être déclaré à l'Agence Régionale de Santé. Ont prend aussi en compte les équipes d'hygiène et la santé du travail pour les contacts en milieu de soins. 
+**L'ensemble des cas contact et des co-exposées doivent être déclaré à l'Agence Régionale de Santé**. Ont prend aussi en compte les équipes d'hygiène et la santé du travail pour les contacts en milieu de soins. 
 
 1. [Retour aux questions](Questions)
 
