@@ -1,6 +1,6 @@
 # Création de chatbot avec ChatMD 
 
-Ce chatbot sert à la réponse aux questions provenant de la FAQ du CTCG pour la soumission de protocole au CTIS : 
+Ce chatbot sert à la réponse aux questions provenant de la FAQ du CTCG pour la soumission de protocole au CTIS : https://chatmd.forge.apps.education.fr//#https://raw.githubusercontent.com/mariewntr/mariewntr.github.io/refs/heads/main/FAQ_CTCG.md
 
 Ce Chatbot sert à répondre aux questions sur un pathogènes émergent, ici le MERS-CoV : 
 
