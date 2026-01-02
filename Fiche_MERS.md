@@ -65,8 +65,7 @@ En Avril 2012 le MERS-CoV est identifié pour la première fois en Arabie Saoudi
 
 En Corée du Sud, le premier cas avéré de MERS-CoV a été constaté le 20 mai 2015 hez un patient de retour du Moyen-Orient. Ce cas a contaminé directement o indirectement plus d'une centaine de personnes dans les hôpitaux qu'il a fréquentés. La transmission en lien avec ces différents établissements a été favorisée par la grande fréquentation de ce type de lieu. Aucune transmission n'a été observée en dehors des hôpitaux.
 
-Ci-dessous une image de la distribution des cas de MERS-CoV par lieu d'infection et années entre janvier 2013 et octobre 2025 : 
-![image](https://www.ecdc.europa.eu/en/publications-data/distribution-confirmed-cases-mers-place-infection-and-year-onset-january-2013-7)
+Ici le lien vers le page de [l'ECDC](https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update) pour visualiser la distribution des cas de MERS depuis janvier 2013.
 
 Sur l'année 2025, 14 cas de MERS-CoV ont été rapporté. 12 ont été rapporté en Arabie Saoudites et 2 cas ont été identifié en France. Les cas français font suite à un voyage au Moyen-Orient. Ils ont été pris en charge par les hopitaux de Lyon et Bordeaux. Parmi les cas rapportés par l'Arabie Saoudites, 3 ont été mortels. 
 
