@@ -1,20 +1,20 @@
 # Fiche sur le Coronavirus du Syndrome Respiratoire du Moyen-Orient
 
-Le syndrome respiratoire du Moyent-Orient (MERS) est une maladie virale due à un coronavirus (MERS-CoV) détecté pour la première fois en 2012 en Arabie Saoudite.\ 
-Les coronavirus constituent une vaste famille de virus pouvant provoquer des maladies diverses, allant du rhume banal au syndrôme respiratoire aigu sévère (SRAS) et à la maladie à coronavirus 2019 (COVID-19).\
+Le syndrome respiratoire du Moyent-Orient (MERS) est une maladie virale due à un coronavirus (MERS-CoV) détecté pour la première fois en 2012 en Arabie Saoudite.   
+Les coronavirus constituent une vaste famille de virus pouvant provoquer des maladies diverses, allant du rhume banal au syndrôme respiratoire aigu sévère (SRAS) et à la maladie à coronavirus 2019 (COVID-19).  
 Parmi les symptômes habituels du MERS figurent : 
 - la fièvre
 - la toux
 - un essoufflement
 
-La présence d'une pneumonie est fréquente, mais les patients atteints de MERS ne développent pas toujours cette affection. Des symptômes gastro-intestinaux, comme la diarrhée, ont été également signalés chez les patients immunodéprimés.\
-Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du patient.\
-Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.\
+La présence d'une pneumonie est fréquente, mais les patients atteints de MERS ne développent pas toujours cette affection. Des symptômes gastro-intestinaux, comme la diarrhée, ont été également signalés chez les patients immunodéprimés.  
+Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du patient.  
+Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.  
 La transmission interhumaine est possible et s'est produite essentiellement parmis des contacts proches ou dans des établissements de soins. En dehors des structures de soins, la transmission interhumaine a été limité. 
 
 Souhaites-tu d'autres informations sur le MERS ?
-1.[Oui](Questions)
-2.[Non](Références)
+- [Oui](Questions)
+- [Non](Références)
 
 ## Questions
 1. [Quelle sont les causes du MERS ?](Causes)
