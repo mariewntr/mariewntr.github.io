@@ -12,7 +12,9 @@ Environ 35% des cas de MERS-CoV notifiés à l'OMS ont abouti au décès du pati
 Le MERS-CoV est un virus zoonotique, c'est-à-dire qu'il se transmet de l'animal à l'humain. Il a été identifié et lié à des infections humaines chez les dromadaires dans plusieurs Etats Membres du Moyen-Orient, d'Afrique et d'Asir du Sud.\
 La transmission interhumaine est possible et s'est produite essentiellement parmis des contacts proches ou dans des établissements de soins. En dehors des structures de soins, la transmission interhumaine a été limité. 
 
-1. [Souhaites-tu d'autres informations sur le MERS ?](Questions)
+Souhaites-tu d'autres informations sur le MERS ?
+1.[Oui](Questions)
+2.[Non](Références)
 
 ## Questions
 1. [Quelle sont les causes du MERS ?](Causes)
@@ -134,7 +136,14 @@ Si un patient doit-être transféré vers un établissement de santé régional,
 [Fiche MERS-CoV COREB, repérer et prendre en charge un patient suspecté MERS-CoV](https://www.coreb.infectiologie.com/UserFiles/File/procedures/20251209-fiche-coreb-merscov.pdf)
 [Etude d'un vaccin MERS-CoV au Royaume-Unis](https://www.ox.ac.uk/news/2023-09-18-oxford-and-liverpool-scientists-launch-new-vaccine-trial-middle-east-respiratory)
 
+## Références 
 
+Si tu souhaites consulter obtenir par toi même des informations sur le MERS-CoV, je t'invite à aller consulter les ressources suivantes. Tu y trouveras toutes les informations nécessaires pour mieux comprendre ce qu'est une infection par le MERS-CoV ainsi que des conseils pour sa prévention et sa prise en charge en milieu hospitalier. 
 
+[Fiche MERS-CoV OMS](https://www.who.int/fr/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov))
+[Fiche MERS-CoV Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/mers-cov)
+[Fiche MERS-CoV de l'ECDC, dernière données sur la situation épidémique](https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus-mers-cov-situation-update)
+[Fiche MERS-CoV COREB, repérer et prendre en charge un patient suspecté MERS-CoV](https://www.coreb.infectiologie.com/UserFiles/File/procedures/20251209-fiche-coreb-merscov.pdf)
+[Etude d'un vaccin MERS-CoV au Royaume-Unis](https://www.ox.ac.uk/news/2023-09-18-oxford-and-liverpool-scientists-launch-new-vaccine-trial-middle-east-respiratory)
 
 
