@@ -15,12 +15,12 @@ La transmission interhumaine est possible et s'est produite essentiellement parm
 1. [Souhaites-tu d'autres informations sur le MERS ?](Questions)
 
 ## Questions
-2. [Quelle sont les causes du MERS ?](Causes)
-3. [Quel sont les symptômes du MERS ?](Symptômes)
-4. [L'épidémiologie du MERS](Epidémiologie)
-5. [Traitement en place pour le MERS](Traitements)
-6. [Prévention et dépistage du MERS](Prévention)
-9. [Sources](Sources)
+1. [Quelle sont les causes du MERS ?](Causes)
+2. [Quel sont les symptômes du MERS ?](Symptômes)
+3. [L'épidémiologie du MERS](Epidémiologie)
+4. [Traitement en place pour le MERS](Traitements)
+5. [Prévention et dépistage du MERS](Prévention)
+6. [Sources](Sources)
 
 
 ## Causes
@@ -38,7 +38,7 @@ Des groupes de cas et des flambées plus importantes ont été observés dans de
 Depuis l’identification du MERS-CoV en 2012, 27 États Membres ont signalé des cas de MERS à l’OMS en vertu du Règlement sanitaire international (2005) : Allemagne, Algérie, Arabie saoudite, Autriche, Bahreïn, Chine, Égypte, France, Grèce, République islamique d’Iran, Italie, Jordanie, Koweït, Liban, Malaisie, Pays-Bas, Oman, Philippines, Qatar, République de Corée, Thaïlande, Tunisie, Türkiye, Émirats arabes unis, Royaume-Uni, États-Unis d’Amérique et Yémen.\
 Pour autant l'OMS ne préconise aucune restriction de voyage dans ces région. 
 
-[Retour aux questions](Questions)
+1. [Retour aux questions](Questions)
 
 ## Symptômes
 
@@ -59,7 +59,7 @@ Ce virus peut-être mortel quand il frappe les personnes agées et/ou déjà aff
 
 Entre 30 à 35 % des patients infectés qui ont été signalés à l’OMS sont décédés, mais cela peut être une surestimation du taux de mortalité réel, car les cas bénins de MERS-CoV peuvent avoir échappé aux systèmes de surveillance existants.
 
-[Retour aux questions](Questions)
+1. [Retour aux questions](Questions)
 
 ## Epidémiologie
 
@@ -71,7 +71,7 @@ Ici le lien vers le page de [l'ECDC](https://www.ecdc.europa.eu/en/middle-east-r
 
 Sur l'année 2025, 14 cas de MERS-CoV ont été rapporté. 12 ont été rapporté en Arabie Saoudites et 2 cas ont été identifié en France. Les cas français font suite à un voyage au Moyen-Orient. Ils ont été pris en charge par les hopitaux de Lyon et Bordeaux. Parmi les cas rapportés par l'Arabie Saoudites, 3 ont été mortels. 
 
-[Retour aux questions](Questions)
+1. [Retour aux questions](Questions)
 
 ## Traitements
 
@@ -82,7 +82,7 @@ Concernant les mesures de prévention, en absence de vaccin, il s’agit d’év
 Des études sur la mise en place d'un vaccin sont actuellement en courq à l'Université d'Oxford (Royaume-Unis). Les premiers essais cliniques montre une bonne tolérance du vaccin avec peu d'effets indésirable et une bonne immunité contre le MERS-CoV. Des études complémentaires sont a ce jours nécessaire pour déployer ce vaccin. Pour en savoir plus sur cette étude consulter [ce lien.](https://www.ox.ac.uk/news/2023-09-18-oxford-and-liverpool-scientists-launch-new-vaccine-trial-middle-east-respiratory)
 
 
-[Retour aux questions](Questions)
+1. [Retour aux questions](Questions)
 
 ## Prévention
 
@@ -116,7 +116,7 @@ Si un patient doit-être transféré vers un établissement de santé régional,
 
 L'ensemble des cas contact et des co-exposées doivent être déclaré à l'Agence Régionale de Santé. Ont prend aussi en compte les équipes d'hygiène et la santé du travail pour les contacts en milieu de soins. 
 
-[Retour aux questions](Questions)
+1. [Retour aux questions](Questions)
 
 ## Sources 
 
